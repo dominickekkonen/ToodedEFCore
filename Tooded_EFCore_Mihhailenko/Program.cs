@@ -1,4 +1,4 @@
-namespace Tooded_EFCore_Mihhailenko
+namespace ToodedEFCore
 {
     internal static class Program
     {
